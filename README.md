@@ -17,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ### ToDO:
 - [ ] create base ui
-- [x] Jupiter
